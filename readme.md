@@ -34,7 +34,7 @@ ia-doblaje-wsl/
 
 ### 🧠 Paso 1: Clona el repositorio
 
-`git clone https://github.com/Lord_Doomy/ia-doblaje-wsl.git`
+`git clone https://github.com/LordDoomy/ia-doblaje-wsl.git`
 `cd ia-doblaje-wsl`
 
 ### ⚙️ Paso 2: Ejecuta el script de instalación
